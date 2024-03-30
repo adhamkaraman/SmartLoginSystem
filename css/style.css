@@ -1,0 +1,93 @@
+/*------------------------------------The three Pages------------------------- */
+
+body{
+    background-color: #24353F;
+}
+.box{
+    width: 60%;
+    color: #24353F;
+    box-shadow: 0px 10px 50px 10px #e1e1e1a9;
+    border-radius: 20px 10px;
+}
+.box h3{
+    color: rgb(255, 255, 255);
+    animation: typing 20s infinite;
+    font-family: 'Tektur', sans-serif;
+}
+
+@keyframes typing {
+    0%{
+        color: #107989 ;
+    }
+    5%{
+        color: white;
+    }
+    10%{
+       color: #107989;
+    }
+    15%{
+       color: white;
+    }
+    20%{
+       color: #107989;
+    }
+    25%{
+       color: white;
+    }
+    30%{
+       color: #107989;
+    }
+    35%{
+       color: white;
+
+    }
+    40%{
+       color: #107989;
+    }
+    45%{
+       color: white;
+    }
+    50%{
+       color: #107989;
+    }
+    55%{
+       color: white;
+    }
+    60%{
+       color: #107989;
+    }
+    65%{
+       color: white;
+    }
+    70%{
+       color: #107989;
+    }
+    75%{
+       color: white;
+    }
+    80%{
+       color: #107989 ;
+    }
+    85%{
+       color: white;
+    }
+    90%{
+       color: #107989 ;
+    }
+    95%{
+       color: white;
+    } 
+    100%{
+       color: #107989;
+    }  
+}
+
+/* ---------------------HOME PAGE ONLY-------------------------- */
+
+.homeindex{
+    color: rgb(255, 255, 255);
+    animation: typing 20s infinite;
+    font-family: 'Tektur', sans-serif;
+}
+
+/* ------------------------------- */
